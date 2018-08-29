@@ -1,4 +1,10 @@
 # The School of AI future challenges
 Ready to tackle the problems of the world?  
 Research a problem, gather a description, key words and sources and request the pull.
-___
+  
+  
+| Challenge          | Keywords                         | Description  | Sources |
+| ------------------ | -------------------------------- | ------------ | ------- |
+| **Example**        | `keyword1`,`keyword2`,`keyword3` |              | [1](https://www.youtube.com), [2](https://www.wikipedia.com), .. |
+| **School of Ai**   | `education`,`artificial`,`intelligence`| Find a way to offer world-class AI education to anyone on Earth for free. | [1](https://www.youtube.com/watch?v=8yu8rtXThy8), [2](https://www.theschool.ai/), ..
+|                    |                                  |              |         |
